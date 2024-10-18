@@ -31,7 +31,7 @@
   "map": [
     "config:rw"
   ],
-  "image": "hyperhdr/hyperhdr-addon-{arch}",
+  "image": "jonah1024/hyperhdr-addon-{arch}",
   "options": {},
   "schema": {},
   "privileged": [
